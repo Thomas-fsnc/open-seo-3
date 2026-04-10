@@ -9,7 +9,7 @@
   },
   "routes": [
     {
-      "pattern": "app.openseo.so",
+      "pattern": "",
       "custom_domain": true,
     },
     {
