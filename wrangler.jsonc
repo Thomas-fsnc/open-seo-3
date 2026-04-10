@@ -13,7 +13,7 @@
       "custom_domain": true,
     },
     {
-      "pattern": "www.app.openseo.so",
+      "pattern": "",
       "custom_domain": true,
     },
   ],
